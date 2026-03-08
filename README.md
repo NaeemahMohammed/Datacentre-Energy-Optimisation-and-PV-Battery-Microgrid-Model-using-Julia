@@ -9,5 +9,6 @@ In the "Datasets" branch,
 -hourly solar data = ninja_pv_-31.3665_144.8481_uncorrected.csv
 
 In the "Codes" section,
+
 -The model for the data independent of the gris is "datacentre_optimization_nogrid.jl"
 

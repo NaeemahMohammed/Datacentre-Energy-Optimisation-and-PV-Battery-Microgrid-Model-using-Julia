@@ -13,7 +13,12 @@ In the "Datasets" branch,
 
 -hourly solar data = ninja_pv_-31.3665_144.8481_uncorrected.csv
 
+-hourly wind data = ninja_wind_-37.9475_143.7511_uncorrected.csv
+
 In the "Codes" branch,
 
--The model for the data independent of the gris is "datacentre_optimization_nogrid.jl"
+-The model for the data centre independent of the gris is "datacentre_optimization_nogrid.jl"
+
+-The model for the data centre connected to the grid is "Grid_Level_Optimisation"
+
 
